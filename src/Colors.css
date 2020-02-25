@@ -1,0 +1,16 @@
+.Colors {
+  color: white;
+  user-select: none;
+}
+
+.Colors-goldenrod {
+  color: goldenrod;
+}
+
+.Colors-red {
+  color: red;
+}
+
+.Colors-green {
+  color: green;
+}

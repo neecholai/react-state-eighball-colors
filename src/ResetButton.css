@@ -1,0 +1,9 @@
+.ResetButton {
+  padding: 5px 20px;
+  margin: auto;
+  background-color: beige;
+  color: black;
+  border-radius: 10px;
+  font-size: 20px;
+  user-select: none;
+}

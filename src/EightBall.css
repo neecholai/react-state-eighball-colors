@@ -2,7 +2,7 @@
   border-radius: 50%;
   width: 400px;
   height: 400px;
-  margin: 100px;
+  margin: 50px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -11,4 +11,5 @@
 .EightBall-msg{
   color: white;
   font-size: 24px;
+  user-select: none;
 }
